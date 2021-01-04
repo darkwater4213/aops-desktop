@@ -1,10 +1,10 @@
 # Navigation
 
-### src 
+### src 📁  
 - Contains the source code for AoPS.
 
-### imgs
+### imgs 📁  
 - Contains the images found throughout the application.
 
-### docs
+### docs 📁  
 - Contains information regarding this repository/application.
