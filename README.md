@@ -1,7 +1,7 @@
 # AoPS Desktop (Pages ALPHA) -- PLEASE READ
 This is the Alpha test version of AoPS Desktop. If it doesn't look right, has a bug, or anything else is weird (like a missing page), let us know on the [Issues page](https://github.com/darkwater4213/aops-desktop/issues/new)! (Discussions, a bona fide desktop Alpha build, and other goodies coming soon.)
 
-# _WARNINGS_
+# WARNINGS
 - This is NOT an official AoPS application! This is made and maintained solely by AoPS users who have volunteered to help develop this. USE AT YOUR OWN RISK!
 - This is NOT stable! This is the Alpha version of the AoPS Desktop Application, deployed on GitHub Pages. This is still in active development, and is most likely extremely buggy. Do NOT try to log in to your AoPS account on this! (Or create one, for that matter). If you have any questions, comments, ideas, or would like to help, open a [new Issue](https://github.com/darkwater4213/aops-desktop/issues/new). 
 
