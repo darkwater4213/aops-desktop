@@ -1,4 +1,4 @@
-# AoPS Desktop (Pages ALPHA) -- PLEASE READ
+# AoPS Desktop
 This is the Alpha test version of AoPS Desktop. If it doesn't look right, has a bug, or anything else is weird (like a missing page), let us know on the [Issues page](https://github.com/darkwater4213/aops-desktop/issues/new)! (Discussions, a bona fide desktop Alpha build, and other goodies coming soon.)
 
 ## WARNINGS
