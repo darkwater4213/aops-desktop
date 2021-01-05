@@ -1,3 +1,0 @@
-DUDE I GOT POSTBANNED BEACUSE I WAS SPAMMING LINKS TO THE CODE FOR FTW ON THE ITS LAST DAY
-
-communicate by email: cbracketdash@gmail.com
