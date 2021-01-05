@@ -1,5 +1,5 @@
 # AoPS Desktop
-This is the Alpha test version of AoPS Desktop. If it doesn't look right, has a bug, or anything else is weird (like a missing page), let us know on the [Issues page](https://github.com/darkwater4213/aops-desktop/issues/new)! (Discussions, a bona fide desktop Alpha build, and other goodies coming soon.)
+This is the Alpha test version of AoPS Desktop. Two popular userscripts (AoPS Enhanced and AoPS Master Script), native Darkmode (thanks to Darkreader), and all sorts of other awesome things are built right into it! If it doesn't look right, has a bug, or anything else is weird (like a missing page), let us know on the [Issues page](https://github.com/darkwater4213/aops-desktop/issues/new)! (Discussions, a bona fide desktop Alpha build, and other goodies coming soon.) <!---- If you have an idea or feature request, let us know in Discusions. ---->
 
 ## Warnings
 - This is NOT an official AoPS application! It is made and maintained solely by AoPS users who have volunteered to develop this.
