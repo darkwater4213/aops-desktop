@@ -1,0 +1,10 @@
+Semicubic Parabola
+	$$ y ^ { 3 } = a x ^ { 2 } $$
+Serpentine Curve
+	$$ y = \dfrac { a b x } { a ^ { 2 } + x ^ { 2 } } $$
+Strophoid
+	$$ y = x \sqrt { \dfrac { a - x } { a + x } } $$
+Tractrix
+	$$ \dfrac { dx } { dy } = \dfrac { y } { \sqrt { a ^ { 2 } - y ^ { 2 } } } $$
+Witch of Agnesi
+	$$ y ^ { 2 } x + r ^ { 2 } ( x - r ) = 0 $$
