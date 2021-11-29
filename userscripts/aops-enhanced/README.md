@@ -16,3 +16,5 @@ Mods can edit posts in locked topics.<br>
 <del>Highlight posts that are already reported.</del> (temporarily disabled)<br>
 <br>
 *Optional feature
+
+###### (AoPS Enhanced is maintained by @epiccakeking and is licensed under the [MIT License](https://github.com/darkwater4213/aops-desktop/edit/main/userscripts/aops-enhanced/LICENSE). Used with permission.)
