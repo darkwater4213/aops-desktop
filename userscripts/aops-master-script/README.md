@@ -8,3 +8,5 @@ Click [here](https://raw.githubusercontent.com/pi-plus-45x23/aops-master-script/
 Documentation for the community is available under the [AoPS Community FAQ](https://artofproblemsolving.com/community/faq) under the "AoPS Master Script" header. Documentation is also available for the AoPS Schoolhouse, under the "Help" menu in the upper left corner.
 # Notice #
 This userscript is not affiliated in any way with AoPS Inc. and is an unofficial add-on to the Art of Problem Solving website. The Art of Problem Solving website is copyright AoPS Incorporated.
+
+###### (AoPS Master Script is maintained by @pi-plus-45x23 and licensed under the [MIT License](https://github.com/darkwater4213/aops-desktop/tree/main/userscripts/aops-master-script/README.md). Used with permission.)
